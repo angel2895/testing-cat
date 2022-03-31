@@ -1,7 +1,4 @@
 # testing-cat
 
-repository to testing the cats
+repository to testing the cats ilove cats 🐱🐈😸🐈
 
-I love cats 🐱🐈😸🐈
-
-# Why cats is better than dogs ? 🐈
